@@ -34,7 +34,7 @@ export const infos = {
   name: 'Paulo Nascimento Advogados',
   email: 'contato', // Email desejado pelo cliente
   emailSecundario: 'psnascimento.adv@gmail.com', // Email desejado pelo cliente
-  domain: 'A_Definir', // Sem "www"
+  domain: 'bancario.psnascimento.adv.br', // Sem "www"
   phone: {
     ddd: '65',
     firstPart: '99951', // Apenas os 5 primeiros números (incluindo o 9)
