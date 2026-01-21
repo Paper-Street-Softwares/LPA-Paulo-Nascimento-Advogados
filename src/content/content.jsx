@@ -121,7 +121,7 @@ const content = {
             vítima
             <span>
               <svg
-                className="hero-underline absolute -bottom-1 left-0 w-full h-3 text-accent/30"
+                className="hero-underline absolute bottom-0 left-0 w-full h-3 text-accent/30"
                 viewBox="0 0 100 10"
                 preserveAspectRatio="none"
               >
